@@ -1,0 +1,52 @@
+<svg height="782" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="782" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 09:00:04 +0000  1005144 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 09:00:04 +0000   104132 bytes  API.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 09:00:04 +0000     5609 bytes  CHANGES.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 09:00:04 +0000     6765 bytes  DEVELOPING.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 09:00:04 +0000     1082 bytes  LICENSE</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 09:00:04 +0000    12827 bytes  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 09:00:04 +0000      796 bytes  browserify/transform.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 09:00:04 +0000   272499 bytes  dist/regl.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 09:00:04 +0000     9584 bytes  dist/regl.js.map</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 09:00:04 +0000    74748 bytes  dist/regl.min.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 09:00:04 +0000    25237 bytes  dist/regl.min.js.gz</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 09:00:04 +0000   215194 bytes  dist/regl.unchecked.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 09:00:04 +0000      668 bytes  lib/attribute.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 09:00:04 +0000    11300 bytes  lib/buffer.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 09:00:04 +0000      317 bytes  lib/constants/arraytypes.json</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 09:00:04 +0000      135 bytes  lib/constants/dtypes.json</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 09:00:04 +0000      175 bytes  lib/constants/primitives.json</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 09:00:04 +0000       61 bytes  lib/constants/usage.json</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 09:00:04 +0000   104644 bytes  lib/core.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 09:00:04 +0000     1659 bytes  lib/dynamic.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 09:00:04 +0000     7597 bytes  lib/elements.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 09:00:04 +0000     1018 bytes  lib/extension.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 09:00:04 +0000    27003 bytes  lib/framebuffer.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 09:00:04 +0000     3188 bytes  lib/limits.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 09:00:04 +0000     3656 bytes  lib/read.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 09:00:04 +0000     6500 bytes  lib/renderbuffer.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 09:00:04 +0000     5652 bytes  lib/shader.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 09:00:04 +0000      231 bytes  lib/stats.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 09:00:04 +0000      397 bytes  lib/strings.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 09:00:04 +0000    46147 bytes  lib/texture.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 09:00:04 +0000     3501 bytes  lib/timer.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 09:00:04 +0000    17565 bytes  lib/util/check.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 09:00:04 +0000      187 bytes  lib/util/clock.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 09:00:04 +0000     3976 bytes  lib/util/codegen.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 09:00:04 +0000      168 bytes  lib/util/extend.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 09:00:04 +0000     1915 bytes  lib/util/flatten.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 09:00:04 +0000      138 bytes  lib/util/is-array-like.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 09:00:04 +0000      365 bytes  lib/util/is-ndarray.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 09:00:04 +0000      140 bytes  lib/util/is-typed-array.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 09:00:04 +0000      139 bytes  lib/util/loop.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 09:00:04 +0000     1786 bytes  lib/util/pool.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 09:00:04 +0000      369 bytes  lib/util/raf.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 09:00:04 +0000     1146 bytes  lib/util/to-half-float.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 09:00:04 +0000      102 bytes  lib/util/values.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 09:00:04 +0000     4993 bytes  lib/webgl.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-18 09:00:04 +0000     5418 bytes  package.json</tspan>
+<tspan x="10" y="762"> 46.  2017-04-18 09:00:04 +0000    14415 bytes  regl.js</tspan>
+</text>
+</svg>
